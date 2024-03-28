@@ -1,89 +1,92 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Jenaveve White
+Mathematician, Programmer, Data Scientist
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="jenavevewhite@gmail.com">jenavevewhite@gmail.com</a>
+| <a href="https://www.linkedin.com/in/jenaveve-white/">My LinkedIn</a>
+| <a href="https://github.com/JenaveveWhite">My GitHub</a>
 </div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Applied Mathematics, Operations Research, Data Science, Machine Learning
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`Sept 2021 - Apr 2025`
+__Brigham Young Univeristy - Idaho__
 
 
+- Major: Mathematical Sciences
+- Emphasis: Applied Mathematics
+- Minor: Data Science
+- GPA: 3.80
 
-## Awards
+## Relevant Coursework 
 
-`2012`
-President, *Royal Society*, London, UK
+`Sept 2021 - Present`
+__Brigham Young Univeristy - Idaho__
 
-Associate, *French Academy of Science*, Paris, France
+- Calculus I, Calculus II, Mulitvariable Calculus, - Differential Equations, Linear Algebra, Partial Differential Equations
+- Intro to Analysis, Real Analysis
+- Data Science Programming, Applied Programming, Modeling with Probability
 
 
 
-## Publications
+## Volunteer Experience
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`Feb 2024`
+__Graph Theory Workshop Instructor__
+ 
+- Instructed 180+ individuals in a graph theory workshop based on Euler’s solution to the Konigsberg bridge problem
+- Collaborated with subject matter experts to develop and deliver a seminar to equip the participants for complex 
+disciplines, including but not limited to network analysis, circuit design, and operations research
+- Nurtured the development of effective techniques for dissecting complicated problems
 
 
-## Occupation
+`Sept 2019 - Jun 2021`
+__Mathematics Tutor__
 
-`1600`
-__Royal Mint__, London
+- Guided development of students’ problem solving and analytical thinking skills
+- Corrected methods of individuals’ approaches for decomposing complex problems and sharpened students critical 
+thinking skills
+- Facilitated group tutoring sessions, along with administering one on one private lessons in multiple levels of mathematics
 
-- Warden
-- Minted coins
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
+## Work Experience
+
+`Jun 2022 - Sep 2022`
+__Assistant Teacher | Karter Schools | Sterling, VA__
+
+- Collaborated with other staff using a team approach. Demonstrated exceptional customer service to families and children 
+by leading in specialized care for each student 
+- Assisted in overseeing multiple special needs individuals
+- Provided support to all children. Oversaw individual and group activities such as personalized learning games and lesson 
+material
+
+`May 2021 - Aug 2021`
+__Shampoo Assistant | Salon Lofts | Sterling, VA__
+
+-  Developed advanced interpersonal skills and improved customers experience. Responsible for attending to all clients with 
+friendly demeanor and outgoing personality
+- Created clean and organized salon environment. Provided clients with personal head massages along with shampoo 
+process
+
+`Jul 2021 – Present`
+__Commissioned Artist | JenaveveOilPaintings | Remote__
+
+- Single-handedly marketed and produced estimable Black and White portrait oil paintings 
+- Analyzed proportions of individual facial features and backgrounds to recreate accurate representations on canvas
+- Committed over 40+ hours for each commissioned oil painting to refine technique and compose excellent product
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: March 2024 -->
