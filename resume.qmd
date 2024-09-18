@@ -33,9 +33,9 @@ __Brigham Young Univeristy - Idaho__
 `Sept 2021 - Present`
 __Brigham Young Univeristy - Idaho__
 
-- Calculus I, Calculus II, Mulitvariable Calculus, - Differential Equations, Linear Algebra, Partial Differential Equations
+- Calculus I, Calculus II, Mulitvariable Calculus, - Differential Equations, Linear Algebra, Partial Differential Equations, Numerical Analysis, Abstract Algebra
 - Intro to Analysis, Real Analysis
-- Data Science Programming, Applied Programming, Modeling with Probability
+- Data Science Programming, Applied Programming, Modeling with Probability, Machine Learning, Data Wrangling/Visualization
 
 
 
@@ -61,6 +61,13 @@ thinking skills
 
 
 ## Work Experience
+`April 2024 - Sep 2024`
+__Intelligence Intern | Stellar Solutions | Remote__
+
+- Conducted Operations Research studies for a company that develops new tunneling technologies 
+- Evaluated the performance of diverse technologies and identified areas for potential enhancement
+- Utilized various modeling and analysis techniques to forecast potential performance improvements, enabling the company to balance performance gains against associated costs and technical risks 
+
 
 `Jun 2022 - Sep 2022`
 __Assistant Teacher | Karter Schools | Sterling, VA__
